@@ -1,0 +1,12 @@
+number,name,party,term start,term end,month start,month end,day start,day end,abnormal term
+34,Dwight D. Eisenhower,Republican,1961,1961,1,1,1,20,Y
+35,John F. Kennedy,Democratic,1961,1963,1,11,20,22,Y
+36,Lyndon B. Johnson,Democratic,1963,1969,11,1,22,20,Y
+37,Richard M. Nixon,Republican,1969,1974,1,8,20,9,Y
+38,Gerald R. Ford,Republican,1974,1977,8,1,9,20,Y
+39,Jimmy Carter,Democratic,1977,1981,1,1,20,20,N
+40,Ronald Reagan,Republican,1981,1989,1,1,20,20,N
+41,George Bush,Republican,1989,1993,1,1,20,20,N
+42,Bill Clinton,Democratic,1993,2001,1,1,20,20,N
+43,George W. Bush,Republican,2001,2009,1,1,20,20,N
+44,Barack Obama,Democratic,2009,2012,1,9,20,5,Y
